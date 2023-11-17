@@ -51,7 +51,7 @@ const Layout = async ({ children }: LayoutProps) => {
     <div className='w-full flex h-screen'>
 
       <div className='hidden md:flex h-full w-full max-w-xs grow flex-col gap-y-5 overflow-y-auto border-r border-gray-200 px-6'>
-        <Link href='http://localhost:3000/' className='flex h-16 shrink-0 items-center'>
+        <Link href="https://tiktok-clone-josh.vercel.app" className='flex h-16 shrink-0 items-center'>
           <ArrowBigLeft className='h-8 w-auto text-[#FF4533]' />
         </Link>
 
