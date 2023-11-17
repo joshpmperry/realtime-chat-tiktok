@@ -3,8 +3,8 @@ import './globals.css'
 
 // Done after the video and optional: add page metadata
 export const metadata = {
-  title: 'FriendZone | Home',
-  description: 'Welcome to the FriendZone',
+  title: 'Tiktok-Chat',
+  description: 'Welcome to the tiktok-Realtime chat',
 }
 
 export default function RootLayout({
